@@ -1,0 +1,3 @@
+# Directorio principal 
+
+Todos juntos
